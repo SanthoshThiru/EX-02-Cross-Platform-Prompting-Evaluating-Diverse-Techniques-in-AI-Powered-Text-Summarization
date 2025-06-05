@@ -55,7 +55,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 ---
 
-## **Result**
+## **Performance/Output**
 
 | Platform | Prompt Type      | Accuracy | Coherence | Simplicity | Speed | UX | Total (/25) |
 | -------- | ---------------- | -------- | --------- | ---------- | ----- | -- | ----------- |
